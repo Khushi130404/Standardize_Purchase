@@ -1,6 +1,6 @@
 # Standardize_Purchase
 
-Standardized Purchase is a Python program designed to demonstrate the effect of standardization scaling on classification models such as Logistic Regression and Decision Trees. The program visualizes the results using scatter plots and Kernel Density Estimation (KDE) plots.
+Standardized Purchase is a Python program designed to determine if an individual will purchase an item based on their age and salary. It demonstrates the effect of standardization scaling on classification models such as Logistic Regression and Decision Trees. The program visualizes the results using scatter plots and Kernel Density Estimation (KDE) plots.
 
 ## Features
 
